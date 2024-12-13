@@ -1,6 +1,6 @@
 # Privacy Policy for X Account Manager Pro
 
-Last Updated: [Current Date]
+Last Updated: [2024/12/14]
 
 ## Introduction
 
@@ -45,8 +45,8 @@ Since we don't collect or store any data, there is no risk of your data being co
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- GitHub Issues: [Your GitHub Repository URL]
-- Email: [Your Contact Email]
+- GitHub Issues: [https://github.com/koozmoto/x-account-manager-pro]
+- Email: [koozmoto@gmail.com]
 
 ## Compliance
 
