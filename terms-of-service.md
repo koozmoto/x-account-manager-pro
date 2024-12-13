@@ -1,6 +1,6 @@
 # Terms of Service for X Account Manager Pro
 
-Last Updated: [Current Date]
+Last Updated: [2024/12/14]
 
 ## 1. Acceptance of Terms
 
